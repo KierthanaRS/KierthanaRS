@@ -1,4 +1,7 @@
 ### Hi there 👋
+🌱 I’m currently learning C++
+🔭 I’m currently working on FSD
+⚡ Fun fact: I love to write poems on codes and feelings
 
 <!--
 **KierthanaRS/KierthanaRS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
