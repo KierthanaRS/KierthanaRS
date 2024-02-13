@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🔭 I’m currently working on FSD
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning React
 - ⚡ Fun fact: I love to write poems with code and feelings.
 
 
