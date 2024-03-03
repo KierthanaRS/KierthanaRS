@@ -2,7 +2,8 @@
 - 🔭 I’m currently working on FSD
 - 🌱 I’m currently learning React
 - ⚡ Fun fact: I love to write poems with code and feelings.
-
+- 📫 How to reach me: kierthanars@gmail.com
+- 😄 Pronouns: She/Her
 
 <!--
 **KierthanaRS/KierthanaRS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +15,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
+
+
 - ⚡ Fun fact: ...
 -->
