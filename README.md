@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&&text=Hi%20There%20👋&fontSize=90)
 
 - 🔭 I’m currently working on SDE
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning Next
 - 📫 How to reach me: kierthanars@gmail.com
 - 😄 Pronouns: She/Her
 
