@@ -1,16 +1,17 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=footer&text=capsule%20render&fontSize=90)
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&&text=Hi%20TherefontSize=90)
+
 - 🔭 I’m currently working on SDE
 - 🌱 I’m currently learning React
 - 📫 How to reach me: kierthanars@gmail.com
 - 😄 Pronouns: She/Her
 
 
-
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=footer&fontSize=90)
 <!--
 **KierthanaRS/KierthanaRS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+### Hi there 👋
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
