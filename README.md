@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&&text=Hi%20TherefontSize=90)
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&&text=Hi%20There%20👋&fontSize=90)
 
 - 🔭 I’m currently working on SDE
 - 🌱 I’m currently learning React
