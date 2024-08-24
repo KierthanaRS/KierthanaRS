@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on SDE
 - 🌱 I’m currently learning Next
-- 📫 How to reach me: kierthanars@gmail.com
+- 📫 Reach me at kierthanars@gmail.com
 - 😄 Pronouns: She/Her
 
 ### Skills:
