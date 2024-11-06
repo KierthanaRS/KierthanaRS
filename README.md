@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&&text=Hi%20There%20👋&fontSize=90)
 
-- 
+
 - 🌱 I’m currently learning Next
 - 📫 Reach me at kierthanars@gmail.com
 - 😄 Pronouns: She/Her
