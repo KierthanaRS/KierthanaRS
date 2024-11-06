@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&&text=Hi%20There%20👋&fontSize=90)
 
-- 🔭 I’m currently working on SDE
+- 
 - 🌱 I’m currently learning Next
 - 📫 Reach me at kierthanars@gmail.com
 - 😄 Pronouns: She/Her
@@ -69,6 +69,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - ⚡ Fun fact: I love to write poems with code and feelings.
+🔭 I’m currently working on SDE
 
 
 - ⚡ Fun fact: ...
