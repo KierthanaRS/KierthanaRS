@@ -121,7 +121,7 @@ me.say_hi()
 <div align="center">
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KierthanaRS&repo=FAITH&theme=radical&hide_border=true)](https://github.com/KierthanaRS/FAITH)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KierthanaRS&repo=CLIMB&theme=radical&hide_border=true)](https://github.com/KierthanaRS/CLIMB)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KierthanaRS&repo=AzureVox&theme=radical&hide_border=true)](https://github.com/KierthanaRS/AzureVox)
 
 </div>
 
