@@ -32,7 +32,6 @@ me.say_hi()
 ### 🎯 What I'm Up To
 - 🔭 Currently working on exciting **full-stack projects**
 - 🌱 Diving deep into **Next.js** and **modern web technologies**
-- 👯 Looking to collaborate on **open source projects**
 - 💬 Ask me about **React, Python, or anything tech!**
 - 📫 Reach me at: **kierthanars@gmail.com**
 - ⚡ Fun fact: **I believe every bug is just an undiscovered feature** 😄
@@ -82,7 +81,6 @@ me.say_hi()
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 </div>
 
@@ -97,6 +95,7 @@ me.say_hi()
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KierthanaRS&theme=radical&hide_border=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KierthanaRS&layout=compact&theme=radical&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KierthanaRS&hide=c%2B%2B&theme=radical)
 
 </div>
 
@@ -109,9 +108,9 @@ me.say_hi()
 
 <div align="center">
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/kierthanars)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/kierthanars/)
 [![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/kierthanars)
-[![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/kierthanars)
+[![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/keerthanars.it2022)
 [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/kierthanars)
 
 </div>
@@ -122,8 +121,8 @@ me.say_hi()
 
 <div align="center">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KierthanaRS&repo=project1&theme=radical&hide_border=true)](https://github.com/KierthanaRS/project1)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KierthanaRS&repo=project2&theme=radical&hide_border=true)](https://github.com/KierthanaRS/project2)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KierthanaRS&repo=project1&theme=radical&hide_border=true)](https://github.com/KierthanaRS/FAITH)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KierthanaRS&repo=project2&theme=radical&hide_border=true)](https://github.com/KierthanaRS/CLIMB)
 
 </div>
 
@@ -134,9 +133,8 @@ me.say_hi()
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kierthanars@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kierthanars)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://your-portfolio-url.com)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/kierthanars)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kierthana-rajesh-8b8b42256/)
+
 
 </div>
 
@@ -152,23 +150,7 @@ me.say_hi()
 
 ---
 
-## 📊 Weekly Development Breakdown
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
----
-
-## 🎯 2024 Goals
-
-- 🚀 Contribute to more open-source projects
-- 📱 Build amazing mobile applications with React Native
-- 🧠 Master advanced algorithms and data structures
-- 🌟 Launch my personal portfolio website
-- 📝 Start tech blogging and share knowledge
-- 🎨 Explore creative coding and UI/UX design
-
----
 
 <div align="center">
 
@@ -188,23 +170,21 @@ me.say_hi()
 <summary>🔍 More About My Coding Journey</summary>
 
 ### 📚 Currently Learning
-- Advanced React patterns and performance optimization
-- Microservices architecture with Node.js
-- Machine Learning with Python
-- Cloud technologies (AWS/Azure)
+- 🚀 Building agentic AI systems that think and act
+- 🧠 Exploring LLM-based memory, context handling, and prompt engineering
+- 🛠️ Mastering full-stack patterns with Next.js + FastAPI + Azure
+- ☁️ Working with Azure Services
+- Working with MCP servers
 
-### 🎪 Fun Projects Ideas I Want to Build
-- 🤖 AI-powered personal assistant
-- 🎵 Music recommendation system
-- 📱 Social media app for developers
-- 🎮 Browser-based coding games
-- 🌱 Sustainability tracker app
+### 🎪 Fun Projects I Want to Build
+- 🧠 An AI teammate that can answer any questions from the database it is connected.
+- 📡 A CLI agent that connects to cloud APIs and automates dev workflows
+- 🧾 An AI-driven resume/career coach that knows my skills and builds custom prep plans
+- 🎤 A VS Code extension that gives sarcastic code reviews (because why not?)
 
-### 📖 Favorite Resources
-- **Books**: Clean Code, JavaScript: The Good Parts
-- **Courses**: FreeCodeCamp, The Odin Project
-- **Podcasts**: Syntax, JavaScript Jabber
-- **YouTube**: Traversy Media, Web Dev Simplified
-
+### 🧰 Favorite Tools & Languages
+- 💙 Python (always my comfort zone)
+- 🖤 Next.js + Tailwind = my aesthetic jam
+- ☁️ Azure Dev life – Function Apps, Blob Storage, OpenAI, Search Services
 </details>
 
