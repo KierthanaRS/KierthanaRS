@@ -94,7 +94,6 @@ me.say_hi()
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KierthanaRS&theme=radical&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KierthanaRS&layout=compact&theme=radical&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KierthanaRS&hide=c%2B%2B&theme=radical)
 
 </div>
