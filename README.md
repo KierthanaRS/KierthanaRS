@@ -1,4 +1,4 @@
-```markdown
+
 <div align="center">
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Hey%20there!%20I'm%20Kierthana%20👋&fontSize=50&fontAlign=50&fontAlignY=40&desc=Full-Stack%20Developer%20|%20Problem%20Solver%20|%20Tech%20Enthusiast&descAlign=50&descAlignY=60&animation=fadeIn)
@@ -207,4 +207,4 @@ me.say_hi()
 - **YouTube**: Traversy Media, Web Dev Simplified
 
 </details>
-```
+
