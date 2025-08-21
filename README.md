@@ -1,7 +1,7 @@
 
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Hey%20there!%20I'm%20Kierthana%20👋&fontSize=50&fontAlign=50&fontAlignY=40&desc=Full-Stack%20Developer%20|%20Problem%20Solver%20|%20Tech%20Enthusiast&descAlign=50&descAlignY=60&animation=fadeIn)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Hey%20there!%20I'm%20Kierthana%20👋&fontSize=50&fontAlign=50&fontAlignY=40&desc=Software%20Developer%20|%20Problem%20Solver%20|%20Tech%20Enthusiast&descAlign=50&descAlignY=60&animation=fadeIn)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&width=600&height=100&lines=The+best+way+to+predict+the+future;is+to+create+it+%F0%9F%9A%80;Welcome+to+my+coding+universe!+%F0%9F%8C%8C)](https://git.io/typing-svg)
 
